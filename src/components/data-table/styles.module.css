@@ -1,0 +1,5 @@
+.dataTableWrapper {
+  width: 50%;
+  overflow-x: scroll;
+  border-right: 1px solid black;
+}
